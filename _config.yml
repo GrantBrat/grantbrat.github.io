@@ -1,6 +1,6 @@
 # Setup
-title: GrantBrat / Wesley Hartzell
-description: Welcome to my website! Navigate to learn more about my career and passions.
+title: Wesley Hartzell
+description: Welcome! You may know me online by the alias GrantBrat. Navigate my page to learn more about my career and passions.
 url: https://grantbrat.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -39,7 +39,7 @@ social:
     - https://github.com/GrantBrat
     - https://www.linkedin.com/in/wesley-hartzell-589864138/
     - https://www.youtube.com/@grantbrat4131
-    
+
 google_site_verification: xxxxx
 lang: en
 
