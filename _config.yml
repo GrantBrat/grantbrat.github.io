@@ -1,6 +1,6 @@
 # Setup
-title: GrantBrat
-description: A simple, beautiful, and powerful Jekyll theme for Wesley Hartzel Blogs
+title: GrantBrat / Wesley Hartzell
+description: Welcome to my website! Navigate to learn more about my career and passions.
 url: https://grantbrat.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,14 +29,17 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: GrantBrat25
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Wesley Hartzell
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://x.com/GrantBrat25
+    - https://github.com/GrantBrat
+    - https://www.linkedin.com/in/wesley-hartzell-589864138/
+    - https://www.youtube.com/@grantbrat4131
+    
 google_site_verification: xxxxx
 lang: en
 
@@ -55,5 +58,6 @@ sass:
 # Specify the author for blog posts
 author:
   name: Wesley Hartzell
-  url: https://github.com/vszhub/
+  url: https://github.com/GrantBrat
   email: grantbratfilms@gmail.com
+  email2: wghartzell25@gmail.com 
