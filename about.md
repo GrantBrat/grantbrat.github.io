@@ -6,6 +6,8 @@ title: About
 ## Hey there, I’m Wesley Hartzell!
 
 ![Image](assets/about_me.jpg)
+<img src="assets/about_me.jpg" alt="image" width="400"/>
+
 
 I’m a recent college graduate with a knack for tech wizardry and a solid 3+ years of experience as a technician and administrator. Currently rocking it as a System Administrator III at the Hanford Site, where I spend my days keeping a watchful eye on the network and ensuring everything runs smoother than a well-oiled machine.
 
