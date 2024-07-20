@@ -10,9 +10,11 @@ math: true
 toc: true
 date: 2024-04-04 15:32 +0800
 ---
+Current setup for the time being is this simple home network.
+
+
 ## Current Home Setup
 
-Current setup for the time being is this simple home network.
 
 The main router serves as the firewall, wireless modem and router to the rest of the network. It then assigned IP addresses to all the wireless devices connected via the 2.3GHz or 5GHz bands. These are assigned Dynamically via DHCP. I think I may need to fix something with this soon as at times, a new device being added to the bands are getting an incorrect IP altogether. They can talk with the router fine, but cannot receive any internet without manually assigning a static IP. May be vendor issue with that brand of Router.
 
