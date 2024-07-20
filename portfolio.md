@@ -6,7 +6,7 @@ toc: yes
 
 <style>
     .grid-container {
-        display: grid;
+        display: grid;w
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
         gap: 20px;
         justify-items: center;
@@ -20,6 +20,16 @@ toc: yes
     }
 </style>
 
+
+## Senior Photos 
+<div class="grid-container">
+    <div class="grid-item"><a href="/assets/senior3.jpg" target="_blank"><img src="/assets/senior3.jpg" alt="Image 1"></a></div>
+    <div class="grid-item"><a href="/assets/senior4.jpg" target="_blank"><img src="/assets/senior4.jpg" alt="Image 2"></a></div>
+    <div class="grid-item"><a href="/assets/senior6.jpg" target="_blank"><img src="/assets/senior6.jpg" alt="Image 1"></a></div>
+    <div class="grid-item"><a href="/assets/senior8.jpg" target="_blank"><img src="/assets/senior8.jpg" alt="Image 1"></a></div>
+    <div class="grid-item"><a href="/assets/senior7.jpg" target="_blank"><img src="/assets/senior7.jpg" alt="Image 1"></a></div>
+    <div class="grid-item"><a href="/assets/senior9.jpg" target="_blank"><img src="/assets/senior9.jpg" alt="Image 1"></a></div>
+</div>
 
 ## Senior Photos 
 <div class="grid-container">
