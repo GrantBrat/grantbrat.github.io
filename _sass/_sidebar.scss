@@ -23,6 +23,20 @@
   margin-left: auto;
 }
 
+@media (max-width: 768px) {
+  .avatar-image {
+    width: 60%; /* Adjust width for tablets and smaller screens */
+    max-width: 150px; /* Reduce max-width for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .avatar-image {
+    width: 80%; /* Larger percentage for mobile devices */
+    max-width: 120px; /* Further reduce max-width for small screens */
+  }
+}
+
 .masthead-title {
   padding: 0;
   margin: 0;
