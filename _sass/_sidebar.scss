@@ -14,26 +14,26 @@
 }
 
 .avatar-image {
-  width: 40%;
-  max-width: 200px;
-  height: auto;
-  border-radius: 50%;
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
+  width: 40% !important;
+  max-width: 200px !important;
+  height: auto !important;
+  border-radius: 50% !important;
+  display: block !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
 
 @media (max-width: 768px) {
   .avatar-image {
-    width: 60%; /* Adjust width for tablets and smaller screens */
-    max-width: 150px; /* Reduce max-width for smaller screens */
+    width: 60% !important;
+    max-width: 150px !important;
   }
 }
 
 @media (max-width: 480px) {
   .avatar-image {
-    width: 80%; /* Larger percentage for mobile devices */
-    max-width: 120px; /* Further reduce max-width for small screens */
+    width: 80% !important;
+    max-width: 120px !important;
   }
 }
 
